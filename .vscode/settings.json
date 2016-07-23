@@ -1,4 +1,7 @@
 {
+    // 读取和编写文件时将使用的默认字符集编码。
+    "files.encoding": "utf8",
+    
     "go.buildOnSave": true,
     "go.lintOnSave": true,
     "go.vetOnSave": true,
