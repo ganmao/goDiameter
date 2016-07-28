@@ -3,7 +3,7 @@ go language implementation of the Diameter protocol
 
 ------
 
-提交计划
+功能规格
 
 1.实现一个Diameter的解析、组包模块
 
